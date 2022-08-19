@@ -2,4 +2,4 @@ Text second file
 
 Changes made in the main branch
 
-Also changes made in the main branch
+New new branch
